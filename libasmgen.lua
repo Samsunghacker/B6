@@ -81,7 +81,6 @@ end
 return asm,asmcode
 
 function completelyAndUtterlyUseless()
-	print("this function is useless!")
+	print("this function is useless suck dick meeeeehhhhh!")
 end
- 
---  suck dick meh
+
